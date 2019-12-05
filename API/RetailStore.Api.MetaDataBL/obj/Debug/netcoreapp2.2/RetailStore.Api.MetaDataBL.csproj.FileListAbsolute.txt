@@ -1,0 +1,14 @@
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\bin\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.deps.json
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\bin\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.runtimeconfig.json
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\bin\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.runtimeconfig.dev.json
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\bin\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.dll
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\bin\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.pdb
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\bin\Debug\netcoreapp2.2\RetailStore.ClientConfiguration.dll
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\bin\Debug\netcoreapp2.2\RetailStore.ClientConfiguration.pdb
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\obj\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.csprojAssemblyReference.cache
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\obj\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.csproj.CoreCompileInputs.cache
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\obj\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.AssemblyInfoInputs.cache
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\obj\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.AssemblyInfo.cs
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\obj\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.csproj.CopyComplete
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\obj\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.dll
+D:\Core Projects\RetailStore\RetailStore.Api\RetailStore.Api.MetaDataBL\obj\Debug\netcoreapp2.2\RetailStore.Api.MetaDataBL.pdb

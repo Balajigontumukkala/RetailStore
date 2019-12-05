@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "71605f034c0e3a88ea5e2b701e60a3089393fe59"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "RetailStore.Api.MetaDataBL/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "3.2.1",
+          "RetailStore.ClientConfiguration": "1.0.0",
+          "SonarAnalyzer.CSharp": "6.7.1.4347"
+        },
+        "runtime": {
+          "RetailStore.Api.MetaDataBL.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Versioning/3.1.6": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Versioning.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.7172.37315"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer/3.2.1": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.Versioning": "3.1.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.7172.37328"
+          }
+        }
+      },
+      "SonarAnalyzer.CSharp/6.7.1.4347": {},
+      "RetailStore.ClientConfiguration/1.0.0": {
+        "runtime": {
+          "RetailStore.ClientConfiguration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RetailStore.Api.MetaDataBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.Versioning/3.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tlM7c315iLDGr+2D7MK3GzEX8tGUj5joxc2p0j+fW6CkrJnXbnNj+yRUkm6SYDQ2pdshgvxySrB1g/bLBbtI3g==",
+      "path": "microsoft.aspnetcore.mvc.versioning/3.1.6",
+      "hashPath": "microsoft.aspnetcore.mvc.versioning.3.1.6.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer/3.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fu6a4GuRbkVLcJi1P54BgPMXExn5dK+B73wL7QvTH4mC6wKvQ00uBAFFz7h4o1UIGGH5R8slcuf074fLrzEG8Q==",
+      "path": "microsoft.aspnetcore.mvc.versioning.apiexplorer/3.2.1",
+      "hashPath": "microsoft.aspnetcore.mvc.versioning.apiexplorer.3.2.1.nupkg.sha512"
+    },
+    "SonarAnalyzer.CSharp/6.7.1.4347": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4AcRxSWqUhqtnIHq0XGmrEezcq3JbusStCr7ri34hs0PtvhJ85RxLx6opWjB8j1Zv1MhS2QvxoQvTGkznOJHgA==",
+      "path": "sonaranalyzer.csharp/6.7.1.4347",
+      "hashPath": "sonaranalyzer.csharp.6.7.1.4347.nupkg.sha512"
+    },
+    "RetailStore.ClientConfiguration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
