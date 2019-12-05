@@ -1,0 +1,12 @@
+<body>
+  <div *ngIf="!this.loginService.token">
+    <app-nav-menu></app-nav-menu>
+  </div>
+  <div *ngIf="this.loginService.token">
+    <app-nav-menu-afterlogin></app-nav-menu-afterlogin>
+  </div>
+
+  <div class="container">
+    <router-outlet></router-outlet>
+  </div>
+</body>

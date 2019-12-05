@@ -1,0 +1,25 @@
+<div style="width:100%">
+  <div style="width:90%; float:left"><h4>Location List</h4></div>
+  <div style="width:10%;float:right"><a class="nav-link text-dark" [routerLink]='["/createlocation"]'>New</a></div>
+</div>
+
+
+<table class='table table-striped'>
+  <thead>
+    <tr>
+      <th>No.</th> 
+      <th>Name</th>
+      <th>Description</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of locationDetails; let i= index ">
+      <td>{{ i + 1 }}</td>
+      <td>{{ item.name }}</td>
+      <td>{{ item.description }}</td>
+      <td><a style="cursor:pointer" class="nav-link text-dark" (click)="editLocation(item.locationId)">Edit</a></td>
+      
+    </tr>
+  </tbody>
+</table>
